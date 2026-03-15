@@ -1,0 +1,7 @@
+pymupdf
+pytesseract
+spacy
+customtkinter
+pillow
+opencv-python
+numpy

@@ -1,0 +1,18 @@
+TERMOS DE USO E LICENÇA DE SOFTWARE - TRATADOC v2.0
+
+1. PROPRIEDADE E DESENVOLVIMENTO
+Este software foi desenvolvido por Anderson Guedes Francisco para uso institucional no âmbito da Corregedoria do Ministério do Planejamento e Orçamento (MPO) e demais usuários que demonstrar interesse.
+
+2. FINALIDADE
+O TrataDoc tem como objetivo o tratamento de documentos digitais (PDF), incluindo funções de tarjamento de dados sensíveis, reconhecimento de caracteres (OCR), unificação de arquivos e anonimização de rostos via Inteligência Artificial.
+
+3. PRIVACIDADE E SEGURANÇA (OFFLINE)
+O software opera de forma 100% local e offline. Nenhum dado, documento ou imagem processada é enviado para servidores externos ou para a nuvem. Toda a Inteligência Artificial e motores de processamento estão embutidos no pacote de instalação.
+
+4. RESPONSABILIDADE DO USUÁRIO
+O usuário é responsável pela conferência final dos documentos tratados antes da sua publicação ou envio, garantindo que as informações sensíveis foram devidamente protegidas de acordo com as normas de sigilo vigentes.
+
+5. LICENÇA DE USO
+Esta ferramenta é de uso interno e institucional. É vedada a comercialização, engenharia reversa ou distribuição externa deste software sem autorização prévia.
+
+Brasília/DF, 2026.
